@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Quicksand&display=swap');
+*{
+    font-size: 20px;
+    color: #02FF00;
+    background-color: black;
+    font-family: 'Open Sans', sans-serif;
+}   
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+h3 img{
+    width: 600px;
+    height: 200px;
+    box-shadow: 0 40px 70px #0000007d;
+    text-align: center;
+}
+.evanpic{
+    padding-bottom: 5px;
+    padding-right: 55px;
+}
+img {
+    width: 600px;
+    height: 400px;
+    box-shadow: 0 1px 50px green;
+}
+input {
+    font-weight: bold;
+    border: 2px solid rgb(59, 143, 59);
+    padding: 5px;
+    margin: 3px 0;
+    transition: 0.5s;
+    width: 100%;
+    background-color: black;
+    color: #02FF00;
+    box-shadow: 0 1px 10px green;
+}
+input:hover {
+    color:white;
+    background-color: green;
+    font-weight: bold;
+}
+textarea {
+    border: 2px solid green;
+    box-shadow: 0 1px 10px green;
+}
