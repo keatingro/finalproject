@@ -168,7 +168,7 @@ var elizaKeywords = [
   ]],
   ["bier", 5, [
     ["*", [
-      "You ain’t down like that",
+      "You ain’t down like that"
     ]]
   ]],
   ["game", 5, [
