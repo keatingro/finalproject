@@ -166,6 +166,12 @@ var elizaKeywords = [
       "EA actually shut down all battlefront servers, it sucks bro"
     ]]
   ]],
+    ]],
+  ["bier", 5, [
+    ["*", [
+      "You ain’t down like that",
+    ]]
+  ]],
   ["game", 5, [
     ["*", [
       "I love call of duty, wanna hop on cod?"
@@ -214,8 +220,8 @@ var elizaKeywords = [
   ["about", 5, [
     ["*", [
       "Did you know I paid $60 for battlefield 2042?",
-      "Did you know I've owned a car for years but have never bothered to get my license!",
-      "My name is Evan, I am 19 years old and my birthday is on cinco de mayo!"
+      "Did you know I've owned a car for years but have never bothered to get my license! THIS IS OUTDATED INFORMATION I GOT MY LICENSE JUST RECENTLY",
+      "My name is Evan, I am 21 years old and my birthday is on cinco de mayo!"
     ]]
   ]],
   ["flakers", 5, [
