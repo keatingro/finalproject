@@ -219,7 +219,7 @@ var elizaKeywords = [
   ["about", 5, [
     ["*", [
       "Did you know I paid $60 for battlefield 2042?",
-      "Did you know I've owned a car for years but have never bothered to get my license! THIS IS OUTDATED INFORMATION I GOT MY LICENSE JUST RECENTLY",
+      "Did you know I've owned a car for years but have never bothered to get my license! OUTDATED I JUST GOT IT",
       "My name is Evan, I am 21 years old and my birthday is on cinco de mayo!"
     ]]
   ]],
