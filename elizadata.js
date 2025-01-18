@@ -166,7 +166,6 @@ var elizaKeywords = [
       "EA actually shut down all battlefront servers, it sucks bro"
     ]]
   ]],
-    ]],
   ["bier", 5, [
     ["*", [
       "You ain’t down like that",
